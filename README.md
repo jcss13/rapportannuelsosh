@@ -1,3 +1,3 @@
-#SOS homophobie
+# SOS homophobie
 
-#Méthodologie
+# Méthodologie
