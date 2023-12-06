@@ -6,6 +6,8 @@ SOS homophobie est une association de loi 1901 créée en 1994. Engagée contre 
 L’enquête repose sur une analyse organisationnelle de SOS homophobie ainsi que sur une lecture croisée des Rapports disponibles sur [leur site](https://www.sos-homophobie.org/informer/rapport-annuel-lgbtiphobies).
 Auteur·ice·s : Joao Cartry Soune-Seyne, Olivia Lavigne, Yassir Mamodbakar
 
+<img width="567" alt="Capture d’écran 2023-12-05 à 19 36 10" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/31d39e12-9ace-407c-8073-c2ccf30981e3">
+
 ## Le Rapport annuel, une action phare de SOS homophobie
 
 SOS homophobie s’est créée autour d’une ligne d’écoute et de soutien aux victimes de LGBTphobies. Depuis 1997, ces témoignages sont compilés et publiés annuellement dans un Rapport sur les LGBTphobies (jusqu’en 2020, il s’agissait du “Rapport sur l’homophobie”). Cette mission est remplie par la Commission Rapport annuel, sous-divisée en trois groupes. Un premier groupe classe les témoignages collectées. Le deuxième groupe se charge de la rédaction des chapitres du rapport à partir des témoignages triés. Le troisième et dernier groupe s’occupe de la valorisation du rapport à sa publication.
