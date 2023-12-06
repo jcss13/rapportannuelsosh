@@ -63,6 +63,7 @@ S’il est difficile de mesurer le réel impact du Rapport sur les politiques pu
 
 <img width="974" alt="Capture d’écran 2023-12-05 à 20 04 36" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/0b41ed86-adef-4a0f-9fcd-753b9d847afe">
 
+<sub>Compilation d'articles de presse relayant le travail de l'association</sub>
 
 ### Les transformations au fil des années et des luttes
 
