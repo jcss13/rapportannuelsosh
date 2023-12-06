@@ -15,6 +15,9 @@ Auteur·ice·s : Joao Cartry Soune-Seyne, Olivia Lavigne, Yassir Mamodbakar
 
 SOS homophobie s’est créée autour d’une ligne d’écoute et de soutien aux victimes de LGBTphobies. Depuis 1997, ces témoignages sont compilés et publiés annuellement dans un Rapport sur les LGBTphobies (jusqu’en 2020, il s’agissait du “Rapport sur l’homophobie”). Cette mission est remplie par la Commission Rapport annuel, sous-divisée en trois groupes. Un premier groupe classe les témoignages collectées. Le deuxième groupe se charge de la rédaction des chapitres du rapport à partir des témoignages triés. Le troisième et dernier groupe s’occupe de la valorisation du rapport à sa publication.
 
+<img width="374" alt="Capture d’écran 2023-12-06 à 13 18 39" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/10791dd6-edaa-4ee2-a77a-2efe2d4e1a6e">
+<sub>Rapports sur les LGBTphobies, 2000-2023</sub>
+
 ## Mesurer les LGBTIphobies : méthodologie du Rapport
 
 ### La collecte des données
