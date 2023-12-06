@@ -1,5 +1,5 @@
 SOS homophobie est une association de loi 1901 créée en 1994. Engagée contre les LGBTIphobies et le sexisme, son action se déploie aujourd’hui autour de trois axes travaillés par les commissions :
-1. Le soutien aux victimes : une ligne téléphoniq et ue, un chat en ligne et des juristes sont disponibles pour les personnes ayant été victimes de LGBTphobies.
+1. Le soutien aux victimes : une ligne téléphonique, un chat en ligne et des juristes sont disponibles pour les personnes ayant été victimes de LGBTphobies.
 2. La prévention et la sensibilisation : les bénévoles interviennent en milieux scolaires et professionnels, participent à des événements, etc.
 3. Le militantisme : les bénévoles participent à des manifestations et l’association entretient des relations institutionnelles. Ses revendications reposent sur un Rapport qu’elle publie chaque année et qui fait l’objet de notre présente enquête.
 
