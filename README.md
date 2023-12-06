@@ -3,10 +3,11 @@ SOS homophobie est une association de loi 1901 créée en 1994. Engagée contre 
 2. La prévention et la sensibilisation : les bénévoles interviennent en milieux scolaires et professionnels, participent à des événements, etc.
 3. Le militantisme : les bénévoles participent à des manifestations et l’association entretient des relations institutionnelles. Ses revendications reposent sur un Rapport qu’elle publie chaque année et qui fait l’objet de notre présente enquête.
 
+<img width="567" alt="Capture d’écran 2023-12-05 à 19 36 10" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/31d39e12-9ace-407c-8073-c2ccf30981e3">
+<sub>Missions affichées par SOS Homophobie sur [leur site](https://www.sos-homophobie.org/nous-connaitre/association)</sub>
+
 L’enquête repose sur une analyse organisationnelle de SOS homophobie ainsi que sur une lecture croisée des Rapports disponibles sur [leur site](https://www.sos-homophobie.org/informer/rapport-annuel-lgbtiphobies).
 Auteur·ice·s : Joao Cartry Soune-Seyne, Olivia Lavigne, Yassir Mamodbakar
-
-<img width="567" alt="Capture d’écran 2023-12-05 à 19 36 10" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/31d39e12-9ace-407c-8073-c2ccf30981e3">
 
 ## Le Rapport annuel, une action phare de SOS homophobie
 
