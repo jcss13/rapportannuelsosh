@@ -82,5 +82,3 @@ Plus tard, alors que les interprétations pathologiques de l’homophobie tomben
 
 
 ## 
-
-### Bibliographie
