@@ -120,3 +120,30 @@ Surtout, les limites du rapport sont dûes et soulignent des limites auxquelles 
 Cette lacune au niveau des rapports nationaux pose aussi un problème méthodologique. Comme dans beaucoup de pays, les ONGs comme SOS Homophobie doivent compter sur leurs propres moyens pour élaborer les rapports. D’un côté cela permet peut-être une définition et donc une compréhension plus complète des LGBTIphobies, mais des ressources moins abouties pour pouvoir recenser les cas de manière plus totale. D’un autre côté les personnes LGBT sont peu susceptibles de porter plainte auprès de la police et même dans ces cas les autorités ont plus souvent tendance à prendre en compte des faits beaucoup plus graves, ce qui représenterait mal l’étendue des LGBTIphobies. Cela crée une tension où les autorités nationales et européennes (Journée mondiale contre les LGBTphobies le 17 mai 2023, 2023) ainsi que les médias (Derdevet, 2023) se reposent sur ces groupes experts, citant leurs chiffres mais ne cherchant pas à les aider à développer leurs capacités. Bien que le rapport de SOS Homophobie soit conscient de ces failles et qu’elles soient reconnues dans les rapports de l’UE, il n’y a pas de standardisation en vue. Cela est important car ces chiffres permettent l’élaboration de plans de lutte contre l’homophobie et ces limites auxquelles fait face le rapport limitent aussi la capacité du gouvernement à répondre à ces faits de manière appropriée.
 
 ### Bibliographie
+Anti-LGBTI violence in Europe and Central Asia: The Numbers. (2023). ILGA-Europe. https://ilga-europe.org/blog/anti-lgbti-violence-europe-central-asia-numbers/
+
+Chamberland, L., & Lebreton, C. (2012). Réflexions autour de la notion d’homophobie: Succès politique, malaises conceptuels et application empirique. Nouvelles Questions Féministes, 31(1), 27–43. https://doi.org/10.3917/nqf.311.0027
+
+Charlebois, J. (2011). Au-delà de la phobie de l’homo: Quand le concept d’homophobie porte ombrage à la lutte contre l’hétérosexisme et l’hétéronormativité. Reflets : revue d’intervention sociale et communautaire, 17(1), 112–149. https://doi.org/10.7202/1005235ar
+
+Chauvin, S., & Lerch, A. (2013). I. Les sciences sociales et l’homosexualité (pp. 10–21). La Découverte. https://www.cairn.info/sociologie-de-l-homosexualite--9782707154699-p-10.htm
+
+Derdevet, M. (2023, May 16). Le nombre d’agressions physiques homophobes en forte hausse en 2022 selon le rapport de SOS Homophobie—France Bleu. France Bleu. https://www.francebleu.fr/infos/societe/le-nombre-d-agressions-physiques-homophobes-en-forte-hausse-en-2022-selon-le-rapport-de-sos-homophobie-2216797
+
+Fassin, É. (2003). L’inversion de la question homosexuelle. Revue française de psychanalyse, 671(1), 263-284
+
+Foucault, M. (2019). Histoire de la sexualité, vol. 1, La volonté de savoir (No. 40, pp. 217-222). Publications de la Sorbonne.
+
+Journée mondiale contre les LGBTphobies le 17 mai 2023. (2023, May 16). Service Public FR. https://www.service-public.fr/particuliers/actualites/A15695
+
+McIntosh, M. (1968). The homosexual role. Social problems, 16(2), 182-192.
+
+Plan national pour l’égalité, contre la haine et les discriminations anti LGBT+ (2023-2026) | Égalité-femmes-hommes. (n.d.). Retrieved 30 November 2023, from https://www.egalite-femmes-hommes.gouv.fr/plan-national-pour-legalite-contre-la-haine-et-les-discriminations-anti-lgbt-2023-2026
+
+Simon, W., & Gagnon, J. H. (1967). Homosexuality: The formulation of a sociological perspective. Journal of Health and Social Behavior, 177-185.
+
+Rapport sur les LGBTIphobies 2023. (2023). SOS Homophobie.
+
+Weeks, J. (1994). The invention of sexuality. Sexualities. Critical Concepts in Sociology, 2, 7-21.
+
+Weinberg, G. H. (1972). Society and the healthy homosexual. Macmillan.
