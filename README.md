@@ -72,6 +72,10 @@ Le Rapport annuel s’est longtemps centré sur l’homophobie, d’autant plus 
 
 La répartition géographique des témoignages affichée dans les Rapports au fil des années est symbolique de l’articulation des outils et des objectifs de la mesure. Dans les premières années, l’association ne récoltait les témoignages que par courriers et téléphone. En conséquence, on ignorait l’origine géographique d’une part importante des témoignages (ceux provenant par courriers) et ceux dont on connaissait l’origine provenaient principalement d’ïle-de-France. En 2004, l’introduction d’une plateforme d’écoute en ligne a eu un impact majeur. Déjà, les témoignages ont drastiquement augmenté : stagnant autour de 400, ils atteignent dès lors 700 puis plus de 1100 en 2005. En outre, Internet a constitué une part de plus en plus importante des témoignages reçus et on connait désormais mieux l’origine géographique des témoignants. Enfin, Internet a permis que la majorité des témoignages proviennent de province (et cette tendance ne s’est jamais inversée depuis). La diversité géographique des témoignages a longtemps été jugée importante pour l’association. En effet, la répartition territoriale dépendrait davantage des relais que l’association dispose dans les territoires, plus que de l’homophobie plus ou moins prononcée dans les territoires. Toutefois, en raison d’une diversité géographique jugée atteinte mais surtout des instrumentalisations récentes de l’homophobie pour stigmatiser des territoires et des populations (les “banlieues”, les espaces ruraux), SOS homophobie a décidé d’abandonner à partir de 2021 la publication de la répartition géographique des témoignages.
 
+<img width="534" alt="Capture d’écran 2023-12-07 à 16 07 58" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/6ef6875f-b12c-475c-bcab-168a33154e7b">
+
+<sub>Répartition géographique des témoignages reçus par l'association en 2017</sub>
+
 ## Une référence médiatique et politique
 
 ### Une forte couverture médiatique
