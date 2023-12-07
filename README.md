@@ -138,7 +138,7 @@ Journée mondiale contre les LGBTphobies le 17 mai 2023. (2023, May 16). Service
 
 McIntosh, M. (1968). The homosexual role. Social problems, 16(2), 182-192.
 
-Plan national pour l’égalité, contre la haine et les discriminations anti LGBT+ (2023-2026) | Égalité-femmes-hommes. (n.d.). Retrieved 30 November 2023, from https://www.egalite-femmes-hommes.gouv.fr/plan-national-pour-legalite-contre-la-haine-et-les-discriminations-anti-lgbt-2023-2026
+Plan national pour l’égalité, contre la haine et les discriminations anti LGBT+ (2023-2026) Égalité-femmes-hommes. (n.d.). Retrieved 30 November 2023, from https://www.egalite-femmes-hommes.gouv.fr/plan-national-pour-legalite-contre-la-haine-et-les-discriminations-anti-lgbt-2023-2026
 
 Simon, W., & Gagnon, J. H. (1967). Homosexuality: The formulation of a sociological perspective. Journal of Health and Social Behavior, 177-185.
 
