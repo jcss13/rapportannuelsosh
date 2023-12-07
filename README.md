@@ -19,7 +19,7 @@ Aujourd’hui, cette Commission est composée d’une vingtaine de bénévoles. 
 
 <img width="579" alt="Capture d’écran 2023-12-07 à 15 20 23" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/e8bd5abf-a655-450d-bc56-96ebf0fc68be">
 
-<sub>Rapports sur les LGBTphobies, 2000-2023</sub>
+<sub>Rapports sur les LGBTIphobies, 2000-2023</sub>
 
 ## Mesurer les LGBTIphobies : méthodologie du Rapport
 
