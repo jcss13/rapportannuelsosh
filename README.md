@@ -58,6 +58,10 @@ Enfin, une dernière catégorisation trie les cadres dans lesquels ces faits ont
 
 Comme souligné dans le Rapport de 2023, il “n’est pas le recensement exhaustif des manifestations d’homophobie, de biphobie et de transphobie survenues en 2022” (p. 16). En effet, sa dépendance aux témoignages présente de réelles limites : il est probable que de nombreuses personnes ne témoignent pas, soit parce qu’elles ne sont pas au courant de cette possibilité, ou soit qu’elles ne souhaitent pas témoigner. Cela mène donc à une sous-estimation des LGBTIphobies. Par ailleurs, les auteurs nous rappellent que “leur échantillon varie d’une année à l’autre, ce qui impose une grande prudence dans les comparaisons entre les éditions du Rapport” (p. 16). Ainsi, si on observe de grandes tendances (comme un pic de témoignages en 2013 pendant les débats sur le mariage pour tous), il reste difficile de généraliser une évolution des témoignages avec une évolution des LGBTIphobies en France.
 
+<img width="1186" alt="Capture d’écran 2023-12-07 à 15 57 57" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/144aa437-38a0-4c00-bbf8-0880e96b6701">
+
+<sub>Évolution du nombre de témoignages reçues par l'association, 1994-2022</sub>
+
 En outre, les catégorisations obligatoires des LGBTIphobies mentionnées plus haut mènent parfois à des choix arbitraires. Si les catégories ont évolué au fil des années pour mieux correspondre aux situations relatées, encore nombreuses sont celles qui ne s’y calquent pas systématiquement. Les catégorisations obligatoires mentionnées ci-dessus (“spécifique” ou “générale”, cadre primaire/cadre secondaire, etc.) relèvent parfois de choix arbitraires qui participent à visibiliser davantage certains types de LGBTIphobies au détriment d’autres. Par exemple, dans le cas de la femme harcelée pour son identité lesbienne et que la police refuse d’aider, la priorité dans le Rapport a été le harcèlement plus aigu. Cela limite peut-être la vision de sentiments LGBTIphobes plus généralisés ou systémique, dans ce cas de la part d’un organisme d'État.
 
 ### Des transformations méthodologiques au fil des années et des luttes
