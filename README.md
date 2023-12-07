@@ -4,7 +4,6 @@ SOS homophobie est une association de loi 1901 créée en 1994. Engagée contre 
 3. Le militantisme : les bénévoles participent à des manifestations et l’association entretient des relations institutionnelles. Ses revendications reposent sur un Rapport qu’elle publie chaque année et qui fait l’objet de notre présente enquête.
 
 <img width="567" alt="Capture d’écran 2023-12-05 à 19 36 10" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/31d39e12-9ace-407c-8073-c2ccf30981e3">
-
 <sub>Missions affichées par [SOS homophobie](https://www.sos-homophobie.org/nous-connaitre/association)</sub>
 
 L’enquête repose sur une analyse organisationnelle de SOS homophobie ainsi que sur une lecture croisée des Rapports disponibles sur [leur site](https://www.sos-homophobie.org/informer/rapport-annuel-lgbtiphobies).
@@ -18,7 +17,6 @@ SOS homophobie s’est créée autour d’une ligne d’écoute et de soutien au
 Aujourd’hui, cette Commission est composée d’une vingtaine de bénévoles. Néanmoins, il n’est pas complètement autonome : la récolte de témoignages est faite par d’autres Commissions, le Rapport est discuté par le Conseil d’administration avant sa publication, et d’autres bénévoles sont engagés après sa publication. En somme, si le Rapport annuel n’est pas l’unique action de SOS homophobie, il y occupe une place majeure.
 
 <img width="579" alt="Capture d’écran 2023-12-07 à 15 20 23" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/e8bd5abf-a655-450d-bc56-96ebf0fc68be">
-
 <sub>Rapports sur les LGBTphobies, 2000-2023</sub>
 
 ## Mesurer les LGBTIphobies : méthodologie du Rapport
@@ -59,7 +57,6 @@ Enfin, une dernière catégorisation trie les cadres dans lesquels ces faits ont
 Comme souligné dans le Rapport de 2023, il “n’est pas le recensement exhaustif des manifestations d’homophobie, de biphobie et de transphobie survenues en 2022” (p. 16). En effet, sa dépendance aux témoignages présente de réelles limites : il est probable que de nombreuses personnes ne témoignent pas, soit parce qu’elles ne sont pas au courant de cette possibilité, ou soit qu’elles ne souhaitent pas témoigner. Cela mène donc à une sous-estimation des LGBTIphobies. Par ailleurs, les auteurs nous rappellent que “leur échantillon varie d’une année à l’autre, ce qui impose une grande prudence dans les comparaisons entre les éditions du Rapport” (p. 16). Ainsi, si on observe de grandes tendances (comme un pic de témoignages en 2013 pendant les débats sur le mariage pour tous), il reste difficile de généraliser une évolution des témoignages avec une évolution des LGBTIphobies en France.
 
 <img width="1186" alt="Capture d’écran 2023-12-07 à 15 57 57" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/144aa437-38a0-4c00-bbf8-0880e96b6701">
-
 <sub>Évolution du nombre de témoignages reçues par l'association, 1994-2022</sub>
 
 En outre, les catégorisations obligatoires des LGBTIphobies mentionnées plus haut mènent parfois à des choix arbitraires. Si les catégories ont évolué au fil des années pour mieux correspondre aux situations relatées, encore nombreuses sont celles qui ne s’y calquent pas systématiquement. Les catégorisations obligatoires mentionnées ci-dessus (“spécifique” ou “générale”, cadre primaire/cadre secondaire, etc.) relèvent parfois de choix arbitraires qui participent à visibiliser davantage certains types de LGBTIphobies au détriment d’autres. Par exemple, dans le cas de la femme harcelée pour son identité lesbienne et que la police refuse d’aider, la priorité dans le Rapport a été le harcèlement plus aigu. Cela limite peut-être la vision de sentiments LGBTIphobes plus généralisés ou systémique, dans ce cas de la part d’un organisme d'État.
@@ -73,7 +70,6 @@ Le Rapport annuel s’est longtemps centré sur l’homophobie, d’autant plus 
 La répartition géographique des témoignages affichée dans les Rapports au fil des années est symbolique de l’articulation des outils et des objectifs de la mesure. Dans les premières années, l’association ne récoltait les témoignages que par courriers et téléphone. En conséquence, on ignorait l’origine géographique d’une part importante des témoignages (ceux provenant par courriers) et ceux dont on connaissait l’origine provenaient principalement d’ïle-de-France. En 2004, l’introduction d’une plateforme d’écoute en ligne a eu un impact majeur. Déjà, les témoignages ont drastiquement augmenté : stagnant autour de 400, ils atteignent dès lors 700 puis plus de 1100 en 2005. En outre, Internet a constitué une part de plus en plus importante des témoignages reçus et on connait désormais mieux l’origine géographique des témoignants. Enfin, Internet a permis que la majorité des témoignages proviennent de province (et cette tendance ne s’est jamais inversée depuis). La diversité géographique des témoignages a longtemps été jugée importante pour l’association. En effet, la répartition territoriale dépendrait davantage des relais que l’association dispose dans les territoires, plus que de l’homophobie plus ou moins prononcée dans les territoires. Toutefois, en raison d’une diversité géographique jugée atteinte mais surtout des instrumentalisations récentes de l’homophobie pour stigmatiser des territoires et des populations (les “banlieues”, les espaces ruraux), SOS homophobie a décidé d’abandonner à partir de 2021 la publication de la répartition géographique des témoignages.
 
 <img width="534" alt="Capture d’écran 2023-12-07 à 16 07 58" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/6ef6875f-b12c-475c-bcab-168a33154e7b">
-
 <sub>Répartition géographique des témoignages reçus par l'association en 2017</sub>
 
 ## Une référence médiatique et politique
@@ -89,7 +85,6 @@ Cette large couverture médiatique intervient dans un contexte où le journalism
 S’il est difficile de mesurer le réel impact du Rapport sur les politiques publiques, plusieurs exemples montrent qu’il est bien réel. Ainsi, durant le confinement de 2020, la hausse de témoignages d’homophobie chez les jeunes résidant chez leurs parents a poussé les pouvoirs publics à réagir en mettant en place un plan d’hébergement d’urgence pour ces jeunes.L’ancrage institutionnel de l’association (au sein du comité de suivi du Plan national d’actions pour l’égalité des droits, contre la haine et les discriminations anti-LGBT+ ; en tant que représentant d’intérêt à l’Assemblée nationale, etc.) lui permet d’avoir un poids important dans la mise en place de politiques publiques.
 
 <img width="876" alt="Capture d’écran 2023-12-06 à 13 33 58" src="https://github.com/jcss13/rapportannuelsosh/assets/109487768/700b8f33-bb93-47d7-ae3a-524c56e10577">
-
 <sub>Compilation d'articles de presse relayant le travail de l'association</sub>
 
 
