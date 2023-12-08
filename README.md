@@ -50,7 +50,7 @@ SOS homophobie trie ensuite chacun de ces actes selon les motivations de leurs a
 Enfin, une dernière catégorisation trie les cadres dans lesquels ces faits ont lieu : voisinage, services publics, travail, en ligne, etc. Si un témoignage évoque deux cadres, il y a nécessairement une priorisation, entre un cadre “primaire” et un “secondaire”.
 
 
-# Le Rapport annuel entre contraintes méthodologiques et contributions militantes
+# Entre contraintes méthodologiques et contributions militantes
 
 ## Les difficultés de quantification des données
 
